@@ -41,7 +41,7 @@ A deep learning-based image classification system to detect six types of tea lea
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/vishalarunagiri24/Tea-Leaf-Disease-Detection-using-Deep-Learning.git
+git clone https://github.com/vishalarunagiri24/Tea-Leaf-Disease-Detection-using-Deep-Learning.git](https://github.com/AryanShukla12173/Tea-Leaf-Disease-Detection-using-Deep-Learning.git
 cd Tea-Leaf-Disease-Detection-using-Deep-Learning
 ```
 
